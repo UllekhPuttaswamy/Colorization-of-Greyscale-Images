@@ -10,6 +10,8 @@ This project demonstrates how to create a web application that allows users to u
 
 - Upload grayscale images through the web interface.
 - Display and download the colorized images.
+  ## Screenshot
+  ![Screenshot](output.png)
 
 ## Web Application
 
